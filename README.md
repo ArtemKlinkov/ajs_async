@@ -1,1 +1,1 @@
-# ajs_async
+[![Build status](https://ci.appveyor.com/api/projects/status/nbuc2ltx637maokw?svg=true)](https://ci.appveyor.com/project/ArtemKlinkov/ajs-async)
